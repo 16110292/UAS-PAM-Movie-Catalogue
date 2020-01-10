@@ -1,2 +1,2 @@
-# UAS-PAM-Movie-Catalogue
-Tugas Ujian Akhir Pemrograman Aplikasi Mobile
+# this project include catalogue movie with TMDB api .
+
